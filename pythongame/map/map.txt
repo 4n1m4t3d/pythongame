@@ -1,0 +1,6 @@
+			Bedroom4	
+	Kitchen2	Lobby1	Hallway3	Bedroom1
+Hallway1	Kitchen1	Hallway2		
+Shower1	Livingroom1	Livingroom3	Closet1	Bedroom3
+Bedroom5	Livingroom2	Livingroom4	Hallway3	Bedroom2
+Patio1				Patio1
